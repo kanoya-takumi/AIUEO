@@ -1,6 +1,7 @@
 import { BrowserRouter, Link } from "react-router-dom";
 import { Router } from "./router/Router";
 import "./styles.css";
+
 export default function App() {
   return (
     // このコンポーネントで囲った配下でルーティングを有効にする
